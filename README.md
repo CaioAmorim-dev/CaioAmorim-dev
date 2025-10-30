@@ -4,7 +4,7 @@
 
 Olá! 👋 Sou Caio César Leandro Amorim, estudante de Análise e Desenvolvimento de Sistemas pelo IFPE e participante dos programas Embarque Digital e Bolsa Futuro Digital, que têm impulsionado minha jornada de aprendizado em tecnologia, ciência e engenharia de dados.
 
-Tenho experiência com Python, SQLAlchemy, Pandas, Airflow e pipelines ETL, além de conhecimento em Java (Spring Boot, Hibernate). Atualmente, atuo como estagiário em Redes e suporte N2 na Secretaria de Defesa Social (SDS), contribuindo com o desenvolvimento e análise de servidores e computadores.
+Tenho experiência com Python, SQLAlchemy, Pandas, Airflow e pipelines ETL, além de conhecimento em Java (Spring Boot, Hibernate). Atualmente, atuo como estagiário em software analyst na Secretaria de Defesa Social (SDS), contribuindo com o desenvolvimento e análise de sistemas público e internos de orgãos das forças militares
 
 Sou apaixonado por dados e inovação, buscando constantemente aprimorar minhas habilidades técnicas e aplicar soluções baseadas em dados que apoiem a tomada de decisão e o crescimento tecnológico.
 
