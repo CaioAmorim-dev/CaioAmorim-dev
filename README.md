@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caio-cesar-b11b3b373)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/caio-cesar-b11b3b373](https://www.linkedin.com/in/caio-cesar-b11b3b373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Em%20Constru%C3%A7%C3%A3o-3776AB?style=for-the-badge&logo=githubpages&logoColor=white)](#)
 
 </div>
