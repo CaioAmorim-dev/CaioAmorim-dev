@@ -1,16 +1,22 @@
-# Caio César
+<!-- HEADER GRADIENTE MODERNO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Caio%20César%20📊&fontAlign=50&fontAlignY=35&color=0:3776AB,100:FFD43B&fontColor=ffffff&fontSize=40&desc=Data%20Engineer%20|%20Python%20Developer%20|%20Data%20Analysis&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
-**Engenharia/analise de dados**
+<div align="center">
 
-Olá! 👋 Sou Caio César Leandro Amorim, estudante de Análise e Desenvolvimento de Sistemas pelo IFPE e participante dos programas Embarque Digital e Bolsa Futuro Digital, que têm impulsionado minha jornada de aprendizado em tecnologia, ciência e engenharia de dados.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caio-cesar-b11b3b373)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Em%20Constru%C3%A7%C3%A3o-3776AB?style=for-the-badge&logo=githubpages&logoColor=white)](#)
+
+</div>
+
+Olá! Sou Caio César Leandro Amorim, estudante de Análise e Desenvolvimento de Sistemas pelo IFPE e participante dos programas Embarque Digital e Bolsa Futuro Digital, que têm impulsionado minha jornada de aprendizado em tecnologia, ciência e engenharia de dados.
 
 Tenho experiência com Python, SQLAlchemy, Pandas, Airflow e pipelines ETL, além de conhecimento em Java (Spring Boot, Hibernate). Atualmente, atuo como estagiário em software analyst na Secretaria de Defesa Social (SDS), contribuindo com o desenvolvimento e análise de sistemas público e internos de orgãos das forças militares
 
 Sou apaixonado por dados e inovação, buscando constantemente aprimorar minhas habilidades técnicas e aplicar soluções baseadas em dados que apoiem a tomada de decisão e o crescimento tecnológico.
 
 ---
+### 🧰 Tecnologias e Ferramentas
 
-### 🧰 Linguagens e Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
